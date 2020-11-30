@@ -2,8 +2,6 @@
  * @(#) Personne.java
  */
 
-package FFSSM;
-
 import java.time.LocalDate;
 
 public class Personne
